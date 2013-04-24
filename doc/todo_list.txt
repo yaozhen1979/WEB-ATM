@@ -1,0 +1,2 @@
+1. 是否要在資料傳輸時加入threadlocal pattern
+2. use BeanUtils ???

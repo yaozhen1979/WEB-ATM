@@ -1,0 +1,9 @@
+{
+    "BANKID": "807",
+    "ACCNO": "99872300000001",
+    "AMT": 5000,
+    "PORTAL":"SINOPAC",
+    "ORDERNO":"12345678901234",
+    "IDKEY": "123",
+    "VERIFYCODE":""
+}
